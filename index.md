@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Explore the world of Technology with Sandipan"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. Let's learn together ...
